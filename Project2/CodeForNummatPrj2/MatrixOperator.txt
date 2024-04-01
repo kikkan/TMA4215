@@ -1,0 +1,4 @@
+Clearify what "*" and "@" operators mean when used on ndarray. E.g.
+    A@B = ?, A*B = ?.
+
+- "*": Hadamard product(?)
